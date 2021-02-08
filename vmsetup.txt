@@ -1,0 +1,5 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst cheatengine
+cinst x64dbg.portable
